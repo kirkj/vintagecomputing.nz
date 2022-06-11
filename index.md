@@ -5,8 +5,9 @@ Welcome to the Vintage Computing community in New Zealand.
 If you're interested in older computers, gaming consoles, history and the technology that drove change, then please join the community on one of these platforms:
 
 - Vintage Computing Aotearoa Online Meetups - a 6-8 weekly online meetup with discussion and presentations:
-  - Next meetup: Tuesday, 14 Jun 2022 at 8pm 
-  - Upcoming meetup: [Eventbrite signup](https://vintagecomputingaotearoa.eventbrite.com/)
+  - Next meetup:
+    - Tuesday, 14 Jun 2022 at 8pm 
+    - [Eventbrite signup and details](https://vintagecomputingaotearoa.eventbrite.com/)
   - Past meeting recordings: [Youtube playlist](https://www.youtube.com/playlist?list=PLjHO--iXI7eZ24yV2voF-1_4_gh6RfBQI) (be sure to like and subscribe :) )
 - [New Zealand Vintage Computing](https://www.facebook.com/groups/nzvintagecomputing) facebook group - a public discussion group with 1,000+ members.
 - [New Zealand Vintage Computing Forums](https://www.classic-computers.org.nz/forums/index.php) - a mostly inactive treasure-trove of historic NZ-based vintage discussion.
