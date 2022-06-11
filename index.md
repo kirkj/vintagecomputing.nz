@@ -11,6 +11,7 @@ If you're interested in older computers, gaming consoles, history and the techno
   - Past meeting recordings: [Youtube playlist](https://www.youtube.com/playlist?list=PLjHO--iXI7eZ24yV2voF-1_4_gh6RfBQI) (be sure to like and subscribe :) )
 - [New Zealand Vintage Computing](https://www.facebook.com/groups/nzvintagecomputing) facebook group - a public discussion group with 1,000+ members.
 - [New Zealand Vintage Computing Forums](https://www.classic-computers.org.nz/forums/index.php) - a mostly inactive treasure-trove of historic NZ-based vintage discussion.
+- [NZ Retro magazine](https://nzretro.com/) - a recently launched nostalgic celebrating New Zealand's classic gaming scene.
 
 ## Past meetings:
 
@@ -32,8 +33,10 @@ Here is a collection of links to previous recountings of online or in-person mee
 
 If you're an NZ-based enthusiast and would like a link to your web presence here, let me know!
 
-- [Al's Geek Lab](https://www.youtube.com/c/AlsGeekLab/)
+- [Al's Geek Lab](https://alsgeeklab.com/)
 - [Terry Stewart's (Tezza's) Webzone for Classic Computers](https://www.classic-computers.org.nz/)
+- [Bassybeats Retro Project Builds](https://www.bassybeats.co.nz/)
+- [Vintage Vibe](https://www.vintagevibe.co.nz/)
 
 
 ## Buying Vintage Computers in NZ
