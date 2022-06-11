@@ -33,11 +33,18 @@ Here is a collection of links to previous recountings of online or in-person mee
 
 If you're an NZ-based enthusiast and would like a link to your web presence here, let me know!
 
-- [Al's Geek Lab](https://alsgeeklab.com/)
-- [Terry Stewart's (Tezza's) Webzone for Classic Computers](https://www.classic-computers.org.nz/)
-- [Bassybeats Retro Project Builds](https://www.bassybeats.co.nz/)
-- [Vintage Vibe](https://www.vintagevibe.co.nz/)
+- [Al's Geek Lab](https://alsgeeklab.com/) - Alistair Ross
+- [Terry Stewart's (Tezza's) Webzone for Classic Computers](https://www.classic-computers.org.nz/) - Terry Stewart
+- [Bassybeats Retro Project Builds](https://www.bassybeats.co.nz/) - Jimmy Anderson 
+- [Vintage Vibe](https://www.vintagevibe.co.nz/) - Vernon Sawers
+- [Bread Box Commodore Computer Museum](https://www.youtube.com/breadbox) - Justin Mitchell
+- [The Poly Preservation Project](https://www.cs.otago.ac.nz/homepages/andrew/poly/Poly.htm) - Andrew Trotman
+- [State of the Ark](https://www.stateoftheark.co.nz/) - Donovan Marshall
 
+## Historic:
+
+- [Vintage Computer Collectors](https://web.archive.org/web/20090522202050/http://www.webs4u.co.nz/vintage/index.html) - Alan Gilchrist's original directory of NZ-based collectors (archived)
+- [Commodore Home Computer Museum (NZ)](https://web.archive.org/web/20060804153235/http://www.webs4u.co.nz/museum/index.html) - an archived version of Alan Gilchrist's museum website
 
 ## Buying Vintage Computers in NZ
 
