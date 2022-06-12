@@ -40,11 +40,14 @@ If you're an NZ-based enthusiast and would like a link to your web presence here
 - [Bread Box Commodore Computer Museum](https://www.youtube.com/breadbox) - Justin Mitchell
 - [The Poly Preservation Project](https://www.cs.otago.ac.nz/homepages/andrew/poly/Poly.htm) - Andrew Trotman
 - [State of the Ark](https://www.stateoftheark.co.nz/) - Donovan Marshall
+- The University of Auckland's [Computing History Displays](https://www.cs.auckland.ac.nz/historydisplays/)
+- [Sord](https://www.sord.co.nz/) - Andrew Joll's collection and SORD Computer Corporation history.
 
 ## Historic:
 
 - [Vintage Computer Collectors](https://web.archive.org/web/20090522202050/http://www.webs4u.co.nz/vintage/index.html) - Alan Gilchrist's original directory of NZ-based collectors (archived)
 - [Commodore Home Computer Museum (NZ)](https://web.archive.org/web/20060804153235/http://www.webs4u.co.nz/museum/index.html) - an archived version of Alan Gilchrist's museum website
+- [Backspace: Vintage Computers from the National Library](https://natlib.govt.nz/events/backspace-vintage-computers-from-the-national-library-24-to-29-may-2021)
 
 ## Buying Vintage Computers in NZ
 
