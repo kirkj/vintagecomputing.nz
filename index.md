@@ -6,7 +6,7 @@ If you're interested in older computers, gaming consoles, history and the techno
 
 - Vintage Computing Aotearoa Online Meetups - a 6-8 weekly online meetup with discussion and presentations:
   - Next meetup:
-    - Tuesday, 14 Jun 2022 at 8pm 
+    - Date TBC - probably late July, early August 
     - [Eventbrite signup and details](https://vintagecomputingaotearoa.eventbrite.com/)
   - Past meeting recordings: [Youtube playlist](https://www.youtube.com/playlist?list=PLjHO--iXI7eZ24yV2voF-1_4_gh6RfBQI) (be sure to like and subscribe :) )
 - [New Zealand Vintage Computing](https://www.facebook.com/groups/nzvintagecomputing) facebook group - a public discussion group with 1,000+ members.
@@ -19,6 +19,9 @@ We don't tend to record the full contents of previous in-person or online meetup
 
 Here is a collection of links to previous recountings of online or in-person meetups:
 
+- 2022-06-14: Apple /// with Kirk Jackson. At the June online meetup, Kirk gave a presentation abou the Apple ///. This is a re-recording, since he forgot to press "record" the first time.
+  - [Apple ///](https://docs.google.com/presentation/d/1ktFfzncflXadQH6oxusonuqvB81RwVvIMEDayNSJcoc/edit?usp=sharing) slides and links
+  - [Apple /// with Kirk Jackson](https://youtu.be/u93bk2LpHXQ) video (74mins)
 - 2022-05-03: [Spectravideo with David Otter](https://youtu.be/mGaEHRKtzNc). At the Vintage Computing Aotearoa Online Meetup, David gave a presentation about the history of Spectravideo and SpectraVision.
 - 2022-03-22: [The Arcade with John-Paul Pochin and Chris Mason](https://youtu.be/WhFQnIVgFQ0). At the Vintage Computing Aotearoa Online Meetup, John-Paul and Chris talked about "The Arcade", a series of art installations in Nelson, New Zealand that allow visitors to experience the wonders of vintage computing and gaming.
 - 2022-01-30: Auckland BBQ. Antony Beagley organised an in-person meetup for Aucklanders.
@@ -48,6 +51,7 @@ If you're an NZ-based enthusiast and would like a link to your web presence here
 - [Vintage Computer Collectors](https://web.archive.org/web/20090522202050/http://www.webs4u.co.nz/vintage/index.html) - Alan Gilchrist's original directory of NZ-based collectors (archived)
 - [Commodore Home Computer Museum (NZ)](https://web.archive.org/web/20060804153235/http://www.webs4u.co.nz/museum/index.html) - an archived version of Alan Gilchrist's museum website
 - [Backspace: Vintage Computers from the National Library](https://natlib.govt.nz/events/backspace-vintage-computers-from-the-national-library-24-to-29-may-2021)
+- [neoncluster](https://web.archive.org/web/20121231003855/http://www.neoncluster.com/home/main.html) - an archived version of Philip Lord's site
 
 ## Buying Vintage Computers in NZ
 
