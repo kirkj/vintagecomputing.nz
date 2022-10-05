@@ -6,7 +6,7 @@ If you're interested in older computers, gaming consoles, history and the techno
 
 - Vintage Computing Aotearoa Online Meetups - a 6-8 weekly online meetup with discussion and presentations:
   - Next meetup:
-    - Date TBC - probably late July, early August 
+    - Monday 17 October 2022, 8pm - talk by Josh Bailey, chat, collections and more!  
     - [Eventbrite signup and details](https://vintagecomputingaotearoa.eventbrite.com/)
   - Past meeting recordings: [Youtube playlist](https://www.youtube.com/playlist?list=PLjHO--iXI7eZ24yV2voF-1_4_gh6RfBQI) (be sure to like and subscribe :) )
 - [New Zealand Vintage Computing](https://www.facebook.com/groups/nzvintagecomputing) facebook group - a public discussion group with 1,000+ members.
