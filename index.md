@@ -20,7 +20,7 @@ The third Lower North Island Vintage Computer Show and Meetup is coming soon!
 Saturday 8 April, 9am-3pm
 
 [Paraparaumu Memorial Hall](https://www.kapiticoast.govt.nz/services/a-z-council-services-and-facilities/community-venues-for-hire/paraparaumu-memorial-hall/) \
-Corner of Aorangi and Tutanekai Sts \
+[Corner of Aorangi and Tutanekai Sts](https://goo.gl/maps/fqp96wNWb2qrELcj8) \
 Paraparaumu
 
 You can come along to look at all the old computers and see some in action, or you can contact David to exhibit.
