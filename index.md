@@ -10,27 +10,13 @@ If you're interested in older computers, gaming consoles, history and the techno
     - [Eventbrite signup and details](https://vintagecomputingaotearoa.eventbrite.com/)
   - Past meeting recordings: [Youtube playlist](https://www.youtube.com/playlist?list=PLjHO--iXI7eZ24yV2voF-1_4_gh6RfBQI) (be sure to like and subscribe :) )
 - [New Zealand Vintage Computing](https://www.facebook.com/groups/nzvintagecomputing) facebook group - a public discussion group with 1,000+ members.
+- [Retro Computing NZ](https://discord.gg/qt98JS8MMj) discord - a new way to chat with other enthusiasts.
 - [New Zealand Vintage Computing Forums](https://www.classic-computers.org.nz/forums/index.php) - a mostly inactive treasure-trove of historic NZ-based vintage discussion.
 - [NZ Retro magazine](https://nzretro.com/) - a recently launched nostalgic celebrating New Zealand's classic gaming scene.
 
 ## Upcoming meeting:
 
-The third Lower North Island Vintage Computer Show and Meetup is coming soon!
-
-Saturday 8 April, 9am-3pm
-
-[Paraparaumu Memorial Hall](https://www.kapiticoast.govt.nz/services/a-z-council-services-and-facilities/community-venues-for-hire/paraparaumu-memorial-hall/) \
-[Corner of Aorangi and Tutanekai Sts](https://goo.gl/maps/fqp96wNWb2qrELcj8) \
-Paraparaumu
-
-You can come along to look at all the old computers and see some in action, or you can contact David to exhibit.
-
-Organised by David Otter. Exhibitors RSVP: xpress_comp@live.com
-
-Flier to post on your wall: [PDF](computer-meet-2023.pdf)
-
-<img src="computer-meet-2023.jpg" alt= "Flier" width="400px">
-
+No upcoming meetings are scheduled - check back soon!
 
 
 ## Past meetings:
@@ -39,6 +25,8 @@ We don't tend to record the full contents of previous in-person or online meetup
 
 Here is a collection of links to previous recountings of online or in-person meetups:
 
+- 2023-04-08: The third Lower North Island Vintage Computer Show and Meetup was held in Paraparaumu at Paraparaumu Memorial Hall. Organised by David Otter.
+  - Video by [Al's Geek Lab](https://alsgeeklab.com/): [3rd New Zealand Vintage Computer Meetup - #Commodore #Apple 2023 #appril2](https://youtu.be/oHVQ2KDGyJw)
 - 2023-02-05: Auckland BBQ. Antony Beagley organised an in-person meetup for Aucklanders.
 - 2022-12-19: A Christmas online meetup, with Secret Santa, retro gift ideas and banter!
 - 2022-10-17: A talk by Josh Bailey at the online meetup about his project [Vessel](https://github.com/anarkiwi/vessel) that adds a high speed MIDI interface to the C64
